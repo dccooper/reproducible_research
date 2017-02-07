@@ -35,8 +35,9 @@ The 5-minute interval that, on average, contains the maximum number of steps
 Code to describe and show a strategy for imputing missing data
 Histogram of the total number of steps taken each day after missing values are imputed
 Panel plot comparing the average number of steps taken per 5-minute interval across weekdays and weekends
-All of the R code needed to reproduce the results (numbers, plots, etc.) in the report
-Assignmentless 
+All of the R code needed to reproduce the results (numbers, plots, etc.) in the report  
+
+## Assignment
 This assignment will be described in multiple parts. You will need to write a report that answers the questions detailed below. Ultimately, you will need to complete the entire assignment in a single R markdown document that can be processed by knitr and be transformed into an HTML file.
 
 Throughout your report make sure you always include the code that you used to generate the output you present. When writing code chunks in the R markdown document, always use 𝚎𝚌𝚑𝚘 = 𝚃𝚁𝚄𝙴 so that someone else will be able to read the code. This assignment will be evaluated via peer assessment so it is essential that your peer evaluators be able to review the code for your analysis.
